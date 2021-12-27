@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CNG443-BossFight:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CNG443_BossFight_jar</output-path>
+    <root id="archive" name="EncounterManager.jar">
+      <element id="module-output" name="CNG443-BossFight" />
+    </root>
+  </artifact>
+</component>
